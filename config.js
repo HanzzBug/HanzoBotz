@@ -12,9 +12,9 @@ global.APIKeys = {
 // Other
 
 global.namabot = ['HanzoBotz']
-global.namaowner = ['Lord Kaze']
-global.owner = ['6282217590187']
-global.premium = ['6282217590187']
+global.namaowner = ['Hnzzxz']
+global.owner = ['6282322976792']
+global.premium = ['6282322976792']
 global.Log = '\n『々Lord』KAZE☆☆☆'//console log gerak nya:v
 global.packname = '© Powered By'
 global.author = 'HanzoBotz || Kaze'
